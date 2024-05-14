@@ -1,0 +1,5 @@
+2024-03-08
+[Epoch:1] ApiLoss:0.100326 CateLoss:0.112144
+[Epoch:2] ApiLoss:0.007564 CateLoss:0.023845
+[Epoch:3] ApiLoss:0.006928 CateLoss:0.021842
+[Epoch:4] ApiLoss:0.006736 CateLoss:0.021163
